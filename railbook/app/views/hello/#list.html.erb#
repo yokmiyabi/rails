@@ -1,0 +1,132 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<table border="1">
+
+ <tr>
+  <th>ISBN’¥³’¡¼’¥É</th><th>’½ñ’Ì¾</th><th>’²Á’³Ê</th>
+  <th>’½Ð’ÈÇ’¼Ò</th><th>’´©’¹Ô’Æü</th><th>CD-ROM</th>
+ </tr>
+
+<% @books.each do |book| %>
+ <tr>
+  <td><%= book.isbn %></td>
+  <td><%= book.title %></td>
+  <td><%= book.price %></td>
+  <td><%= book.publish %></td>
+  <td><%= book.published %></td>
+  <td><%= book.cd %></td>
+ </tr>
+<% end %>
+
+
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<table border="1">
+
+ <tr>
+  <th>ISBN’¥³’¡¼’¥É</th><th>’½ñ’Ì¾</th><th>’²Á’³Ê</th>
+  <th>’½Ð’ÈÇ’¼Ò</th><th>’´©’¹Ô’Æü</th><th>CD-ROM</th>
+ </tr>
+
+<% @books.each do |book| %>
+ <tr>
+  <td><%= book.isbn %></td>
+  <td><%= book.title %></td>
+  <td><%= book.price %></td>
+  <td><%= book.publish %></td>
+  <td><%= book.published %></td>
+  <td><%= book.cd %></td>
+ </tr>
+<% end %>
+
+
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<table border="1">
+
+ <tr>
+  <th>ISBN’¥³’¡¼’¥É</th><th>’½ñ’Ì¾</th><th>’²Á’³Ê</th>
+  <th>’½Ð’ÈÇ’¼Ò</th><th>’´©’¹Ô’Æü</th><th>CD-ROM</th>
+ </tr>
+
+<% @books.each do |book| %>
+ <tr>
+  <td><%= book.isbn %></td>
+  <td><%= book.title %></td>
+  <td><%= book.price %></td>
+  <td><%= book.publish %></td>
+  <td><%= book.published %></td>
+  <td><%= book.cd %></td>
+ </tr>
+<% end %>
+
+
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<table border="1">
+
+ <tr>
+  <th>ISBN’¥³’¡¼’¥É</th><th>’½ñ’Ì¾</th><th>’²Á’³Ê</th>
+  <th>’½Ð’ÈÇ’¼Ò</th><th>’´©’¹Ô’Æü</th><th>CD-ROM</th>
+ </tr>
+
+<% @books.each do |book| %>
+ <tr>
+  <td><%= book.isbn %></td>
+  <td><%= book.title %></td>
+  <td><%= book.price %></td>
+  <td><%= book.publish %></td>
+  <td><%= book.published %></td>
+  <td><%= book.cd %></td>
+ </tr>
+<% end %>
+
+
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<table border="1">
+
+ <tr>
+  <th>ISBN’¥³’¡¼’¥É</th><th>’½ñ’Ì¾</th><th>’²Á’³Ê</th>
+  <th>’½Ð’ÈÇ’¼Ò</th><th>’´©’¹Ô’Æü</th><th>CD-ROM</th>
+ </tr>
+
+<% @books.each do |book| %>
+ <tr>
+  <td><%= book.isbn %></td>
+  <td><%= book.title %></td>
+  <td><%= book.price %></td>
+  <td><%= book.publish %></td>
+  <td><%= book.published %></td>
+  <td><%= book.cd %></td>
+ </tr>
+<% end %>
+
+
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<table border="1">
+
+ <tr>
+  <th>ISBN’¥³’¡¼’¥É</th><th>’½ñ’Ì¾</th><th>’²Á’³Ê</th>
+  <th>’½Ð’ÈÇ’¼Ò</th><th>’´©’¹Ô’Æü</th><th>CD-ROM</th>
+ </tr>
+
+<% @books.each do |book| %>
+ <tr>
+  <td><%= book.isbn %></td>
+  <td><%= book.title %></td>
+  <td><%= book.price %></td>
+  <td><%= book.publish %></td>
+  <td><%= book.published %></td>
+  <td><%= book.cd %></td>
+ </tr>
+<% end %>
+
+
+</table>
